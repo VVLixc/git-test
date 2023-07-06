@@ -10,6 +10,6 @@ package com.lixc.git;
 public class GitTest {
     public static void main(String[] args) {
         System.out.println("Git test -Lixc 1.2");
-        System.out.println("hot-fix Git test -Lixc 1.0");
+        System.out.println("hot-fix Git test -Lixc 1.1");
     }
 }
