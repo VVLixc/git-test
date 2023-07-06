@@ -11,7 +11,7 @@ public class GitTest {
     public static void main(String[] args) {
         System.out.println("Git test -Lixc 1.2");
         System.out.println("hot-fix Git test -Lixc 1.1");
-        System.out.println("Push test -Lixc 1.3");
+        System.out.println("Push test -Lixc 1.4");
         System.out.println("Pull test -Remote 1.3");
     }
 }
